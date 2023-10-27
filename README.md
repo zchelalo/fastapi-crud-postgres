@@ -8,7 +8,6 @@ git clone https://github.com/zchelalo/fastapi-crud-mongo.git
 ```  
   
 Despues de ello asegurese de estar dentro de la carpeta del proyecto y corra el siguiente comando:  
-Para probar la API debe tener instalado python y postgres, una vez con eso listo clone el proyecto:  
 ```bash  
 pip install -r requirements.txt 
 ```  
